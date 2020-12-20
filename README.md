@@ -17,9 +17,11 @@
 <br/>
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@semih.durmus2020)
 <br/><br/><br/>
+
+<!-- 
 <h4>Medium Articles</h4>
 [Setting up React Native Vector Icons for IOS](https://semihdurmus.medium.com/setting-up-react-native-vector-icons-for-ios-a5d57e78cdb2)
 [Making a ToDo List with HTML, CSS and Javascript](https://semihdurmus.medium.com/making-a-todo-list-with-html-css-and-javascript-154839b770b6)
 
-
+ -->
 
