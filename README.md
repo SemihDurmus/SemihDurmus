@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SemihDurmus&show_icons=true&theme=cobalt" align='right' width="45%">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frcihan" alt="SemihDurmus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SemihDurmus" alt="SemihDurmus" /> </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semih-durmus/)
 <br/>
