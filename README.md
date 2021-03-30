@@ -12,8 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SemihDurmus" alt="SemihDurmus" /> </p>
 <br/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SemihDurmus&show_icons=true&theme=cobalt" width="30%" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihDurmus&theme=chartreuse-dark&layout=compact" width="30%" alt="languages">
+<img src="https://github-readme-stats.vercel.app/api?username=SemihDurmus&show_icons=true&theme=cobalt" height="120px"alt="stats"> &nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihDurmus&theme=cobalt&layout=compact" height="120px"alt="languages">&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SemihDurmus&theme=cobalt" alt="my commit status" height="120px"/>
 </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semih-durmus/)
