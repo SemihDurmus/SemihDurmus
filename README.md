@@ -8,12 +8,13 @@
 <img src="django-logo2.png" height="60">
 
  </p> 
-  <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SemihDurmus&show_icons=true&theme=cobalt" align='right' width="45%">
-
-
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SemihDurmus" alt="SemihDurmus" /> </p>
+<br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SemihDurmus&show_icons=true&theme=cobalt" width="30%" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihDurmus&theme=chartreuse-dark&layout=compact" width="30%" alt="languages">
+</p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semih-durmus/)
 <br/>
