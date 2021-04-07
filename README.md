@@ -14,7 +14,9 @@
 <br/>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SemihDurmus&show_icons=true&theme=cobalt" height="120px" alt="stats"> &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihDurmus&theme=cobalt&layout=compact" height="120px"alt="languages">&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihDurmus&theme=cobalt&layout=compact" height="120px"alt="languages">
+ </p>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SemihDurmus&theme=cobalt" alt="my commit status" height="120px" width="400px"/>
 </p>
 
